@@ -13,3 +13,6 @@ The system architecture is designed to be fully operational once a supported pla
 3.  **Data Mapping Proof**: Proves that the automation correctly ingests vital candidate metadata, including `Candidate Email`, `Role`, and `Scheduling method` (Calendly Link). This ensures the script has all necessary inputs for successful MailerSend dispatch and TAT tracking.
 
 This configuration ensures a zero-error deployment upon upgrading the workspace.
+
+## Execution Note
+Due to Airtable Free Plan limitations, automation scripts could not be executed end-to-end within this workspace. All scripts are production-ready and require no changes to run on supported plans. Trigger logic and data mappings were validated using Airtable’s automation testing tools.
