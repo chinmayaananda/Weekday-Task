@@ -1,0 +1,5 @@
+{
+  "name": "Weekday Automation Workbench",
+  "description": "A high-performance dashboard for managing Airtable automation scripts, MailerSend integrations, and candidate TAT tracking for the Founder's Office.",
+  "requestFramePermissions": []
+}
